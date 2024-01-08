@@ -1,0 +1,9 @@
+[submodule "hypercurve"]
+	path = hypercurve
+	url = https://github.com/johannphilippe/hypercurve
+[submodule "rawmidi_csound"]
+	path = rawmidi_csound
+	url = https://github.com/johannphilippe/rawmidi_csound
+[submodule "lua_csound"]
+	path = lua_csound
+	url = https://github.com/johannphilippe/lua_csound
