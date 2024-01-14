@@ -11,7 +11,7 @@ It contains :
 
 
 ```bash
-git clone https://github.com/johannphilippe/csound_plugins.git 
+git clone https://github.com/johannphilippe/csound_plugins.git  --recurse-submodules
 cd csound_plugins
 mkdir build && cd build 
 cmake ..
